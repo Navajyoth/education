@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<screen>
+  <parentCode />
+  <folderPosition>0</folderPosition>
+  <name>Main Screen</name>
+  <code>1df5f44c-bc7b-4b64-a13c-0b7be4ee70fd</code>
+  <templateID>f39803f7-df02-4169-93eb-7547fb8c961a</templateID>
+  <date>30/03/2016 16:36:51</date>
+  <note></note>
+  <legend-item></legend-item>
+  <pageAlignment>CENTER</pageAlignment>
+  <orientation>PORTRAIT</orientation>
+  <backgroundGrowth>VERTICAL</backgroundGrowth>
+  <width>360</width>
+  <height>640</height>
+  <item-group id="d9e451bc-aef3-4c3d-acd7-819a7030d8ba" visible="true">
+    <button id="fe9712a1-4968-42aa-9121-1bfa4ad1acd1" singleLine="true" hidden="false" lockType="vertical" onTop="false" visible="true">
+      <text>Create Profile</text>
+      <style name="LnFButton">
+        <DimensionStyle width="250" height="46" />
+        <PositioningStyle left="59" top="200" />
+        <BackgroundStyle type="color" value="8r174g158b" />
+        <BorderStyle radius="13" leftColor="8r174g158b" topColor="8r174g158b" rightColor="8r174g158b" bottomColor="8r174g158b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="0" topWidth="0" rightWidth="0" bottomWidth="0" />
+        <TextStyle color="255r255g255b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="15.0" height="26">
+          <family>Roboto</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>Roboto-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="true" global="false" blur="4" distance="3" angle="90.0" color="160r160g160b" dist="0" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="14">
+          <style name="LnFTextRange">
+            <FontStyle size="15.0" height="26">
+              <family>Roboto</family>
+              <style name="Regular" weight="400" italic="normal" />
+              <evc-file>Roboto-Regular</evc-file>
+            </FontStyle>
+            <TextStyle color="255r255g255b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>Flat button light</info>
+      <userID>Flat-button-light</userID>
+    </button>
+    <label id="9a1e63c3-7952-4d03-ab4b-54a76f5c8e4b" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+      <text>Or</text>
+      <style name="LnFTextBox">
+        <DimensionStyle width="15" height="19" autofit="true" />
+        <PositioningStyle left="162" top="276" />
+        <BackgroundStyle type="transparent" />
+        <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="128r128g128b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="11.0" height="19">
+          <family>Roboto</family>
+          <style name="Bold" weight="700" italic="normal" />
+          <evc-file>Roboto-Bold</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="2">
+          <style name="LnFTextRange">
+            <FontStyle size="11.0" height="19">
+              <family>Roboto</family>
+              <style name="Bold" weight="700" italic="normal" />
+              <evc-file>Roboto-Bold</evc-file>
+            </FontStyle>
+            <TextStyle color="128r128g128b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Text_3</userID>
+    </label>
+    <button id="02a61934-4605-49b9-bc82-14a99f34d41a" singleLine="true" hidden="false" lockType="vertical" onTop="false" visible="true">
+      <text>Skip and start exploring</text>
+      <style name="LnFButton">
+        <DimensionStyle width="250" height="46" />
+        <PositioningStyle left="58" top="322" />
+        <BackgroundStyle type="color" value="8r174g158b" />
+        <BorderStyle radius="13" leftColor="8r174g158b" topColor="8r174g158b" rightColor="8r174g158b" bottomColor="8r174g158b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="0" topWidth="0" rightWidth="0" bottomWidth="0" />
+        <TextStyle color="255r255g255b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="15.0" height="26">
+          <family>Roboto</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>Roboto-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="true" global="false" blur="4" distance="3" angle="90.0" color="160r160g160b" dist="0" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="24">
+          <style name="LnFTextRange">
+            <FontStyle size="15.0" height="26">
+              <family>Roboto</family>
+              <style name="Regular" weight="400" italic="normal" />
+              <evc-file>Roboto-Regular</evc-file>
+            </FontStyle>
+            <TextStyle color="255r255g255b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>Flat button light</info>
+      <userID>Flat-button-light_1</userID>
+    </button>
+    <label id="9a0ac338-a2b2-4de9-b210-aa89818eac7c" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+      <text>Terms of Use</text>
+      <style name="LnFTextBox">
+        <DimensionStyle width="66" height="14" autofit="true" />
+        <PositioningStyle left="83" top="619" />
+        <BackgroundStyle type="transparent" />
+        <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="128r128g128b" hAlign="left" vAlign="center" decoration="underline" line-height="0" />
+        <FontStyle size="8.0" height="14">
+          <family>Roboto</family>
+          <style name="Bold" weight="700" italic="normal" />
+          <evc-file>Roboto-Bold</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="12">
+          <style name="LnFTextRange">
+            <FontStyle size="8.0" height="14">
+              <family>Roboto</family>
+              <style name="Bold" weight="700" italic="normal" />
+              <evc-file>Roboto-Bold</evc-file>
+            </FontStyle>
+            <TextStyle color="128r128g128b" hAlign="left" vAlign="center" decoration="underline" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Text_4</userID>
+    </label>
+    <label id="dc66e37d-fe83-49fb-87de-bded0e20dadd" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+      <text>Privacy Policy</text>
+      <style name="LnFTextBox">
+        <DimensionStyle width="69" height="14" autofit="true" />
+        <PositioningStyle left="223" top="619" />
+        <BackgroundStyle type="transparent" />
+        <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="128r128g128b" hAlign="left" vAlign="center" decoration="underline" line-height="0" />
+        <FontStyle size="8.0" height="14">
+          <family>Roboto</family>
+          <style name="Bold" weight="700" italic="normal" />
+          <evc-file>Roboto-Bold</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="14">
+          <style name="LnFTextRange">
+            <FontStyle size="8.0" height="14">
+              <family>Roboto</family>
+              <style name="Bold" weight="700" italic="normal" />
+              <evc-file>Roboto-Bold</evc-file>
+            </FontStyle>
+            <TextStyle color="128r128g128b" hAlign="left" vAlign="center" decoration="underline" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <userID>Text_5</userID>
+    </label>
+    <style name="LnFCanvas">
+      <DimensionStyle width="309" height="633" />
+      <PositioningStyle left="0" top="0" />
+      <BackgroundStyle type="transparent" />
+      <TransparencyStyle value="0" />
+    </style>
+  </item-group>
+  <Events>
+    <event id="fe9712a1-4968-42aa-9121-1bfa4ad1acd1" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Case 1</description>
+        <block>
+          <navigateLink execType="serial" delayAction="0">
+            <screen id="00f58284-084c-495f-b405-89fccd8fb1dc">Create Profile</screen>
+            <type>window</type>
+          </navigateLink>
+        </block>
+      </case>
+    </event>
+    <event id="02a61934-4605-49b9-bc82-14a99f34d41a" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Case 1</description>
+        <block>
+          <navigateLink execType="serial" delayAction="0">
+            <screen id="e248db5e-7a6e-45c4-889b-7f7dd8353a9b">Preferences</screen>
+            <type>window</type>
+          </navigateLink>
+        </block>
+      </case>
+    </event>
+  </Events>
+</screen>
+

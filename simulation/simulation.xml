@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <device>androidphone</device>
+  <scale>100</scale>
+  <orientation>portrait</orientation>
+  <widthValue>360</widthValue>
+  <heightValue>640</heightValue>
+  <hasHighlight>true</hasHighlight>
+  <hasTopPanel>true</hasTopPanel>
+  <hasRotate>true</hasRotate>
+  <hasGestureTool>true</hasGestureTool>
+  <hasZoom>true</hasZoom>
+</settings>
+

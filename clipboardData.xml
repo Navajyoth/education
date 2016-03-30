@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <label id="735360b6-4c8d-446e-a5e7-73f1553126f7" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+    <text></text>
+    <style name="LnFTextBox">
+      <DimensionStyle width="27" height="27" autofit="true" />
+      <PositioningStyle left="10" top="10" />
+      <BackgroundStyle type="transparent" />
+      <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+      <TextStyle color="255r255g255b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+      <FontStyle size="20.0" height="27">
+        <family>materialdesignjim</family>
+        <style name="Regular" weight="400" italic="normal" />
+        <evc-file>materialdesignjim-Regular</evc-file>
+      </FontStyle>
+      <TransparencyStyle value="0" />
+      <PaddingStyle top="0" left="0" bottom="0" right="0" />
+      <RotationStyle angle="0" />
+      <ShadowStyle>
+        <Box enable="false" />
+        <Text enable="false" />
+      </ShadowStyle>
+    </style>
+    <rich-text-range-list>
+      <text-range text-range-start="0" text-range-end="1">
+        <style name="LnFTextRange">
+          <FontStyle size="20.0" height="27">
+            <family>materialdesignjim</family>
+            <style name="Regular" weight="400" italic="normal" />
+            <evc-file>materialdesignjim-Regular</evc-file>
+          </FontStyle>
+          <TextStyle color="255r255g255b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+        </style>
+      </text-range>
+    </rich-text-range-list>
+    <info>Home</info>
+    <userID>Text_3</userID>
+  </label>
+  <Events />
+</root>
+

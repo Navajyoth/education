@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<screen>
+  <parentCode />
+  <folderPosition>3</folderPosition>
+  <name>Search Results</name>
+  <code>8f836602-d03a-454f-907d-ca540dc80382</code>
+  <templateID>f39803f7-df02-4169-93eb-7547fb8c961a</templateID>
+  <date>30/03/2016 16:37:13</date>
+  <note></note>
+  <legend-item></legend-item>
+  <pageAlignment>CENTER</pageAlignment>
+  <orientation>PORTRAIT</orientation>
+  <backgroundGrowth>VERTICAL</backgroundGrowth>
+  <width>360</width>
+  <height>640</height>
+  <item-group id="4a0d383c-a665-41b2-8c29-7c2cce7ad803" visible="true">
+    <rich-text id="723cca5e-15af-4e80-814d-33042f0cab9f" hidden="false" lockType="none" onTop="false" visible="true">
+      <text>K.C College
+
+www.kccollege.org.in/
+124, Dinshaw Wachha Road, Vidyasagar Principal K. M. Kundnani Chowk, Churchgate, Mumbai, Maharashtra 400020
+Phone: 022 2282 2376</text>
+      <style name="LnFRectangle">
+        <DimensionStyle width="340" height="129" />
+        <PositioningStyle left="9" top="81" />
+        <BackgroundStyle type="color" value="239r239g239b" />
+        <BorderStyle radius="35" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="0" topWidth="0" rightWidth="0" bottomWidth="0" />
+        <TextStyle color="255r0g0b" hAlign="left" vAlign="left" decoration="none" line-height="15" />
+        <FontStyle size="8.0" height="12">
+          <family>Arial</family>
+          <style name="Regular" weight="400" italic="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="true" global="false" blur="5" distance="10" angle="135.0" color="64r64g64b" dist="0" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="11">
+          <style name="LnFTextRange">
+            <FontStyle size="8.0" height="12">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="255r0g0b" hAlign="left" vAlign="left" decoration="none" line-height="15" />
+          </style>
+        </text-range>
+        <text-range text-range-start="11" text-range-end="13">
+          <style name="LnFTextRange">
+            <FontStyle size="8.0" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="53r120g95b" hAlign="left" vAlign="center" decoration="none" line-height="15" />
+          </style>
+        </text-range>
+        <text-range text-range-start="13" text-range-end="34">
+          <style name="LnFTextRange">
+            <FontStyle size="8.0" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="53r120g95b" hAlign="left" vAlign="center" decoration="underline" line-height="15" />
+          </style>
+        </text-range>
+        <text-range text-range-start="34" text-range-end="35">
+          <style name="LnFTextRange">
+            <FontStyle size="8.0" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="53r120g95b" hAlign="left" vAlign="center" decoration="none" line-height="15" />
+          </style>
+        </text-range>
+        <text-range text-range-start="35" text-range-end="163">
+          <style name="LnFTextRange">
+            <FontStyle size="8.0" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="102r102g102b" hAlign="left" vAlign="center" decoration="none" line-height="15" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>Red button</info>
+      <userID>Rectangle_5</userID>
+    </rich-text>
+    <button id="5c363b6f-f7bd-47ec-9528-17bc5acc4a24" singleLine="true" hidden="false" lockType="none" onTop="false" visible="true">
+      <text>List of colleges</text>
+      <style name="LnFButton">
+        <DimensionStyle width="360" height="46" />
+        <PositioningStyle left="0" top="16" />
+        <BackgroundStyle type="color" value="8r174g158b" />
+        <BorderStyle radius="13" leftColor="8r174g158b" topColor="8r174g158b" rightColor="8r174g158b" bottomColor="8r174g158b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="0" topWidth="0" rightWidth="0" bottomWidth="0" />
+        <TextStyle color="255r255g255b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="15.0" height="26">
+          <family>Roboto</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>Roboto-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="16">
+          <style name="LnFTextRange">
+            <FontStyle size="15.0" height="26">
+              <family>Roboto</family>
+              <style name="Regular" weight="400" italic="normal" />
+              <evc-file>Roboto-Regular</evc-file>
+            </FontStyle>
+            <TextStyle color="255r255g255b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>Flat button light</info>
+      <userID>Flat-button-light</userID>
+    </button>
+    <rich-text id="e20a6410-4a7d-425d-9f68-419053330c25" hidden="false" lockType="none" onTop="false" visible="true">
+      <text>Bharatiya Vidya Bhavan&amp;apos;s College
+
+www.bhavans.ac.in
+Munshi Nagar,Andheri(West),Mumbai-400 058
+Phone:022-2625 6451</text>
+      <style name="LnFRectangle">
+        <DimensionStyle width="340" height="113" />
+        <PositioningStyle left="10" top="223" />
+        <BackgroundStyle type="color" value="239r239g239b" />
+        <BorderStyle radius="35" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="0" topWidth="0" rightWidth="0" bottomWidth="0" />
+        <TextStyle color="255r0g0b" hAlign="left" vAlign="left" decoration="none" line-height="15" />
+        <FontStyle size="8.0" height="12">
+          <family>Arial</family>
+          <style name="Regular" weight="400" italic="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="true" global="false" blur="5" distance="10" angle="135.0" color="64r64g64b" dist="0" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="32">
+          <style name="LnFTextRange">
+            <FontStyle size="8.0" height="12">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="255r0g0b" hAlign="left" vAlign="left" decoration="none" line-height="15" />
+          </style>
+        </text-range>
+        <text-range text-range-start="32" text-range-end="34">
+          <style name="LnFTextRange">
+            <FontStyle size="8.0" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="53r120g95b" hAlign="left" vAlign="center" decoration="none" line-height="15" />
+          </style>
+        </text-range>
+        <text-range text-range-start="34" text-range-end="51">
+          <style name="LnFTextRange">
+            <FontStyle size="8.0" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="53r120g95b" hAlign="left" vAlign="center" decoration="underline" line-height="15" />
+          </style>
+        </text-range>
+        <text-range text-range-start="51" text-range-end="113">
+          <style name="LnFTextRange">
+            <FontStyle size="8.0" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="53r120g95b" hAlign="left" vAlign="center" decoration="none" line-height="15" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>Red button</info>
+      <userID>Rectangle_6</userID>
+    </rich-text>
+    <rich-text id="792834c1-ce49-4131-a00e-a07b9ca4dda1" hidden="false" lockType="none" onTop="false" visible="true">
+      <text>Jai Hind College
+
+www.jaihindcollege.com
+&amp;quot;A&amp;quot; Road, Churchgate, Mumbai - 400 020
+Phone: 022 22041095 / 0256</text>
+      <style name="LnFRectangle">
+        <DimensionStyle width="340" height="112" />
+        <PositioningStyle left="10" top="349" />
+        <BackgroundStyle type="color" value="239r239g239b" />
+        <BorderStyle radius="35" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="0" topWidth="0" rightWidth="0" bottomWidth="0" />
+        <TextStyle color="255r0g0b" hAlign="left" vAlign="left" decoration="none" line-height="15" />
+        <FontStyle size="8.0" height="12">
+          <family>Arial</family>
+          <style name="Regular" weight="400" italic="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="true" global="false" blur="5" distance="10" angle="135.0" color="64r64g64b" dist="0" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="16">
+          <style name="LnFTextRange">
+            <FontStyle size="8.0" height="12">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="255r0g0b" hAlign="left" vAlign="left" decoration="none" line-height="15" />
+          </style>
+        </text-range>
+        <text-range text-range-start="16" text-range-end="18">
+          <style name="LnFTextRange">
+            <FontStyle size="8.0" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="53r120g95b" hAlign="left" vAlign="center" decoration="none" line-height="15" />
+          </style>
+        </text-range>
+        <text-range text-range-start="18" text-range-end="40">
+          <style name="LnFTextRange">
+            <FontStyle size="8.0" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="53r120g95b" hAlign="left" vAlign="center" decoration="underline" line-height="15" />
+          </style>
+        </text-range>
+        <text-range text-range-start="40" text-range-end="79">
+          <style name="LnFTextRange">
+            <FontStyle size="8.0" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="53r120g95b" hAlign="left" vAlign="center" decoration="none" line-height="15" />
+          </style>
+        </text-range>
+        <text-range text-range-start="79" text-range-end="106">
+          <style name="LnFTextRange">
+            <FontStyle size="8.0" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="102r102g102b" hAlign="left" vAlign="center" decoration="none" line-height="15" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>Red button</info>
+      <userID>Rectangle_7</userID>
+    </rich-text>
+    <rich-text id="f3cda113-33de-407c-8504-c545a64917b7" hidden="false" lockType="none" onTop="false" visible="true">
+      <text>Guru Nanak Khalsa College
+
+www.gnkhalsa.edu.in
+Nathalal Parekh Marg, Matunga East, Mumbai - 400019
+Phone: 022 2409 6234</text>
+      <style name="LnFRectangle">
+        <DimensionStyle width="340" height="115" />
+        <PositioningStyle left="10" top="470" />
+        <BackgroundStyle type="color" value="239r239g239b" />
+        <BorderStyle radius="35" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="0" topWidth="0" rightWidth="0" bottomWidth="0" />
+        <TextStyle color="255r0g0b" hAlign="left" vAlign="left" decoration="none" line-height="15" />
+        <FontStyle size="8.0" height="12">
+          <family>Arial</family>
+          <style name="Regular" weight="400" italic="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="true" global="false" blur="5" distance="10" angle="135.0" color="64r64g64b" dist="0" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="11">
+          <style name="LnFTextRange">
+            <FontStyle size="8.0" height="12">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="255r0g0b" hAlign="left" vAlign="left" decoration="none" line-height="15" />
+          </style>
+        </text-range>
+        <text-range text-range-start="11" text-range-end="25">
+          <style name="LnFTextRange">
+            <FontStyle size="8.0" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="255r0g0b" hAlign="left" vAlign="center" decoration="none" line-height="15" />
+          </style>
+        </text-range>
+        <text-range text-range-start="25" text-range-end="27">
+          <style name="LnFTextRange">
+            <FontStyle size="8.0" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="53r120g95b" hAlign="left" vAlign="center" decoration="none" line-height="15" />
+          </style>
+        </text-range>
+        <text-range text-range-start="27" text-range-end="46">
+          <style name="LnFTextRange">
+            <FontStyle size="8.0" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="53r120g95b" hAlign="left" vAlign="center" decoration="underline" line-height="15" />
+          </style>
+        </text-range>
+        <text-range text-range-start="46" text-range-end="98">
+          <style name="LnFTextRange">
+            <FontStyle size="8.0" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="53r120g95b" hAlign="left" vAlign="center" decoration="none" line-height="15" />
+          </style>
+        </text-range>
+        <text-range text-range-start="98" text-range-end="119">
+          <style name="LnFTextRange">
+            <FontStyle size="8.0" height="0">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="102r102g102b" hAlign="left" vAlign="center" decoration="none" line-height="15" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>Red button</info>
+      <userID>Rectangle_8</userID>
+    </rich-text>
+    <button id="8454cc6a-345c-4d76-9993-fddf2b1c4c37" singleLine="true" hidden="false" lockType="none" onTop="false" visible="true">
+      <text>Share</text>
+      <style name="LnFButton">
+        <DimensionStyle width="100" height="31" />
+        <PositioningStyle left="129" top="599" />
+        <BackgroundStyle type="color" value="8r174g158b" />
+        <BorderStyle radius="13" leftColor="8r174g158b" topColor="8r174g158b" rightColor="8r174g158b" bottomColor="8r174g158b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="0" topWidth="0" rightWidth="0" bottomWidth="0" />
+        <TextStyle color="255r255g255b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="9.0" height="16">
+          <family>Roboto</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>Roboto-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="true" global="false" blur="4" distance="3" angle="90.0" color="160r160g160b" dist="0" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="5">
+          <style name="LnFTextRange">
+            <FontStyle size="9.0" height="16">
+              <family>Roboto</family>
+              <style name="Regular" weight="400" italic="normal" />
+              <evc-file>Roboto-Regular</evc-file>
+            </FontStyle>
+            <TextStyle color="255r255g255b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>Flat button light</info>
+      <userID>Flat-button-light_3</userID>
+    </button>
+    <label id="11e2cd6b-798d-4ef1-80ca-d4786fae11ee" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+      <text></text>
+      <style name="LnFTextBox">
+        <DimensionStyle width="26" height="26" autofit="true" />
+        <PositioningStyle left="8" top="28" />
+        <BackgroundStyle type="transparent" />
+        <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="243r243g243b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="19.0" height="26">
+          <family>materialdesignjim</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>materialdesignjim-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="1">
+          <style name="LnFTextRange">
+            <FontStyle size="19.0" height="25">
+              <family>materialdesignjim</family>
+              <style name="Regular" weight="400" italic="normal" />
+              <evc-file>materialdesignjim-Regular</evc-file>
+            </FontStyle>
+            <TextStyle color="243r243g243b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>Menu</info>
+      <userID>Label_37</userID>
+    </label>
+    <label id="750c9dd1-de24-4b44-814e-a5903e6930b5" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+      <text></text>
+      <style name="LnFTextBox">
+        <DimensionStyle width="27" height="27" autofit="true" />
+        <PositioningStyle left="301" top="184" />
+        <BackgroundStyle type="transparent" />
+        <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="125r125g125b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="20.0" height="27">
+          <family>materialdesignjim</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>materialdesignjim-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="1">
+          <style name="LnFTextRange">
+            <FontStyle size="20.0" height="27">
+              <family>materialdesignjim</family>
+              <style name="Regular" weight="400" italic="normal" />
+              <evc-file>materialdesignjim-Regular</evc-file>
+            </FontStyle>
+            <TextStyle color="125r125g125b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>More Horizontal</info>
+      <userID>Label_3</userID>
+    </label>
+    <label id="6fdfd919-c691-4066-8222-a55c0fc604ba" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+      <text></text>
+      <style name="LnFTextBox">
+        <DimensionStyle width="27" height="27" autofit="true" />
+        <PositioningStyle left="294" top="302" />
+        <BackgroundStyle type="transparent" />
+        <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="125r125g125b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="20.0" height="27">
+          <family>materialdesignjim</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>materialdesignjim-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="1">
+          <style name="LnFTextRange">
+            <FontStyle size="20.0" height="27">
+              <family>materialdesignjim</family>
+              <style name="Regular" weight="400" italic="normal" />
+              <evc-file>materialdesignjim-Regular</evc-file>
+            </FontStyle>
+            <TextStyle color="125r125g125b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>More Horizontal</info>
+      <userID>Label_4</userID>
+    </label>
+    <label id="2d38a867-41ae-433f-a61a-a2816b0b5dd7" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+      <text></text>
+      <style name="LnFTextBox">
+        <DimensionStyle width="27" height="27" autofit="true" />
+        <PositioningStyle left="294" top="425" />
+        <BackgroundStyle type="transparent" />
+        <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="125r125g125b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="20.0" height="27">
+          <family>materialdesignjim</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>materialdesignjim-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="1">
+          <style name="LnFTextRange">
+            <FontStyle size="20.0" height="27">
+              <family>materialdesignjim</family>
+              <style name="Regular" weight="400" italic="normal" />
+              <evc-file>materialdesignjim-Regular</evc-file>
+            </FontStyle>
+            <TextStyle color="125r125g125b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>More Horizontal</info>
+      <userID>Label_5</userID>
+    </label>
+    <label id="02e79ef7-21d5-4900-bc75-fab9ccd5f437" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+      <text></text>
+      <style name="LnFTextBox">
+        <DimensionStyle width="27" height="27" autofit="true" />
+        <PositioningStyle left="294" top="548" />
+        <BackgroundStyle type="transparent" />
+        <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="125r125g125b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="20.0" height="27">
+          <family>materialdesignjim</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>materialdesignjim-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="1">
+          <style name="LnFTextRange">
+            <FontStyle size="20.0" height="27">
+              <family>materialdesignjim</family>
+              <style name="Regular" weight="400" italic="normal" />
+              <evc-file>materialdesignjim-Regular</evc-file>
+            </FontStyle>
+            <TextStyle color="125r125g125b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>More Horizontal</info>
+      <userID>Label_6</userID>
+    </label>
+    <label id="d02db3d9-beaa-4fdb-acde-b93392c959f6" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+      <text></text>
+      <style name="LnFTextBox">
+        <DimensionStyle width="27" height="27" autofit="true" />
+        <PositioningStyle left="327" top="25" />
+        <BackgroundStyle type="transparent" />
+        <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="255r255g255b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="20.0" height="27">
+          <family>materialdesignjim</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>materialdesignjim-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="7" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="1">
+          <style name="LnFTextRange">
+            <FontStyle size="20.0" height="27">
+              <family>materialdesignjim</family>
+              <style name="Regular" weight="400" italic="normal" />
+              <evc-file>materialdesignjim-Regular</evc-file>
+            </FontStyle>
+            <TextStyle color="255r255g255b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>Home</info>
+      <userID>Label_7</userID>
+    </label>
+    <style name="LnFCanvas">
+      <DimensionStyle width="360" height="630" />
+      <PositioningStyle left="0" top="0" />
+      <BackgroundStyle type="transparent" />
+      <TransparencyStyle value="0" />
+    </style>
+  </item-group>
+  <Events>
+    <event id="11e2cd6b-798d-4ef1-80ca-d4786fae11ee" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Case 1</description>
+        <block>
+          <navigateLink execType="serial" delayAction="0">
+            <screen id="d12245cc-1680-458d-89dd-4f0d7fb22724">Left Slider</screen>
+            <type>window</type>
+          </navigateLink>
+        </block>
+      </case>
+    </event>
+    <event id="d02db3d9-beaa-4fdb-acde-b93392c959f6" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Case 1</description>
+        <block>
+          <navigateLink execType="serial" delayAction="0">
+            <screen id="1df5f44c-bc7b-4b64-a13c-0b7be4ee70fd">Main Screen</screen>
+            <type>window</type>
+          </navigateLink>
+        </block>
+      </case>
+    </event>
+  </Events>
+</screen>
+

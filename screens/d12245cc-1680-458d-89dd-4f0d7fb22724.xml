@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<screen>
+  <parentCode />
+  <folderPosition>4</folderPosition>
+  <name>Left Slider</name>
+  <code>d12245cc-1680-458d-89dd-4f0d7fb22724</code>
+  <templateID>f39803f7-df02-4169-93eb-7547fb8c961a</templateID>
+  <date>30/03/2016 16:34:03</date>
+  <note></note>
+  <legend-item></legend-item>
+  <pageAlignment>LEFT</pageAlignment>
+  <orientation>PORTRAIT</orientation>
+  <backgroundGrowth>VERTICAL</backgroundGrowth>
+  <width>360</width>
+  <height>640</height>
+  <item-group id="9baede0d-d47a-4051-a482-8ed5ab5a5ced" visible="true">
+    <tabbedBox id="1c20b774-683e-4b6e-84b5-66298912559d" default="0" selected="0" content-editable="true" hidden="false" lockType="none" onTop="false" visible="true">
+      <tab id="2861fcbb-8730-4620-aa7a-265dbd578c4b" identifier="c023f8c5-e3f4-4f22-8f96-139a0af274c5" hScroll="0" vScroll="0" visible="true">
+        <name>Panel_4</name>
+        <userID>Panel_4</userID>
+        <item-group id="3a92d573-5fb6-4089-bffd-07b6b96ee071" visible="true">
+          <group-container id="4e642bda-d31a-48a1-9ad1-67a95dd548c9" hidden="false" lockType="none" onTop="true" visible="true">
+            <image id="851195df-bb72-4a94-b315-414c11ea2885" hidden="false" lockType="all" onTop="true" visible="true">
+              <image-name>5065ad3a-1e12-4ae7-8a88-1ff6fcbe87fc.png</image-name>
+              <original-name>fons_lateralmenu.png</original-name>
+              <style name="LnFImage">
+                <DimensionStyle width="306" height="167" />
+                <PositioningStyle left="0" top="0" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TransparencyStyle value="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                </ShadowStyle>
+              </style>
+              <userID>Image_7</userID>
+            </image>
+            <label id="efb0f62e-6a50-41a5-abf1-c68267ef09b8" singleLine="true" hidden="false" lockType="all" onTop="true" visible="true">
+              <text>Paul Jones</text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="271" height="30" />
+                <PositioningStyle left="18" top="128" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="255r255g255b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="11.0" height="19">
+                  <family>Roboto</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>Roboto-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="10">
+                  <style name="LnFTextRange">
+                    <FontStyle size="11.0" height="19">
+                      <family>Roboto</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>Roboto-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="255r255g255b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <userID>Label_2</userID>
+            </label>
+            <label id="cdba59f2-533e-485e-95b9-56f22ef45a27" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+              <text></text>
+              <style name="LnFTextBox">
+                <DimensionStyle width="27" height="27" autofit="true" />
+                <PositioningStyle left="279" top="129" />
+                <BackgroundStyle type="transparent" />
+                <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+                <TextStyle color="255r255g255b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                <FontStyle size="20.0" height="27">
+                  <family>materialdesignjim</family>
+                  <style name="Regular" weight="400" italic="normal" />
+                  <evc-file>materialdesignjim-Regular</evc-file>
+                </FontStyle>
+                <TransparencyStyle value="0" />
+                <PaddingStyle top="0" left="0" bottom="0" right="0" />
+                <RotationStyle angle="0" />
+                <ShadowStyle>
+                  <Box enable="false" />
+                  <Text enable="false" />
+                </ShadowStyle>
+              </style>
+              <rich-text-range-list>
+                <text-range text-range-start="0" text-range-end="1">
+                  <style name="LnFTextRange">
+                    <FontStyle size="20.0" height="26">
+                      <family>materialdesignjim</family>
+                      <style name="Regular" weight="400" italic="normal" />
+                      <evc-file>materialdesignjim-Regular</evc-file>
+                    </FontStyle>
+                    <TextStyle color="255r255g255b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                  </style>
+                </text-range>
+              </rich-text-range-list>
+              <info>Arrow Drop-Down</info>
+              <userID>Label_5</userID>
+            </label>
+            <style name="LnFGroup">
+              <DimensionStyle width="306" height="167" />
+              <PositioningStyle left="0" top="0" />
+              <RotationStyle angle="0" />
+            </style>
+            <userID>side-drawer-header_1</userID>
+          </group-container>
+          <rectangle id="a4d93ddb-a35a-4547-a472-f901abc3e636" auto-fit="false" hidden="false" lockType="none" onTop="false" visible="true">
+            <text>View/Edit Profle</text>
+            <style name="LnFRectangle">
+              <DimensionStyle width="222" height="46" />
+              <PositioningStyle left="0" top="167" />
+              <BackgroundStyle type="color" value="255r255g255b" />
+              <BorderStyle radius="5" leftColor="255r255g255b" topColor="255r255g255b" rightColor="255r255g255b" bottomColor="255r255g255b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="2" topWidth="2" rightWidth="2" bottomWidth="2" />
+              <TextStyle color="0r0g0b" hAlign="left" vAlign="left" decoration="none" line-height="23" />
+              <FontStyle size="12.0" height="21">
+                <family>Roboto</family>
+                <style name="Regular" weight="400" italic="normal" />
+                <evc-file>Roboto-Regular</evc-file>
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="8" left="60" bottom="0" right="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+                <Text enable="false" />
+              </ShadowStyle>
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="16">
+                <style name="LnFTextRange">
+                  <FontStyle size="12.0" height="21">
+                    <family>Roboto</family>
+                    <style name="Regular" weight="400" italic="normal" />
+                    <evc-file>Roboto-Regular</evc-file>
+                  </FontStyle>
+                  <TextStyle color="0r0g0b" hAlign="left" vAlign="left" decoration="none" line-height="23" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <info>Two line item</info>
+            <userID>Two-line-item_20</userID>
+          </rectangle>
+          <rectangle id="dd8e0d12-f049-49ad-b33c-869ac54fb7e6" auto-fit="false" hidden="false" lockType="none" onTop="false" visible="true">
+            <text>View/Edit Preferences</text>
+            <style name="LnFRectangle">
+              <DimensionStyle width="230" height="46" />
+              <PositioningStyle left="0" top="213" />
+              <BackgroundStyle type="color" value="255r255g255b" />
+              <BorderStyle radius="5" leftColor="255r255g255b" topColor="255r255g255b" rightColor="255r255g255b" bottomColor="255r255g255b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="2" topWidth="2" rightWidth="2" bottomWidth="2" />
+              <TextStyle color="67r67g67b" hAlign="left" vAlign="left" decoration="none" line-height="23" />
+              <FontStyle size="12.0" height="21">
+                <family>Roboto</family>
+                <style name="Regular" weight="400" italic="normal" />
+                <evc-file>Roboto-Regular</evc-file>
+              </FontStyle>
+              <TransparencyStyle value="3" />
+              <PaddingStyle top="8" left="60" bottom="0" right="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+                <Text enable="false" />
+              </ShadowStyle>
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="5">
+                <style name="LnFTextRange">
+                  <FontStyle size="12.0" height="21">
+                    <family>Roboto</family>
+                    <style name="Regular" weight="400" italic="normal" />
+                    <evc-file>Roboto-Regular</evc-file>
+                  </FontStyle>
+                  <TextStyle color="67r67g67b" hAlign="left" vAlign="left" decoration="none" line-height="23" />
+                </style>
+              </text-range>
+              <text-range text-range-start="5" text-range-end="21">
+                <style name="LnFTextRange">
+                  <FontStyle size="12.0" height="0">
+                    <family>Roboto</family>
+                    <style name="Regular" weight="400" italic="normal" />
+                    <evc-file>Roboto-Regular</evc-file>
+                  </FontStyle>
+                  <TextStyle color="67r67g67b" hAlign="left" vAlign="center" decoration="none" line-height="23" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <info>Two line item</info>
+            <userID>Two-line-item_12</userID>
+          </rectangle>
+          <label id="2927fad0-b776-4b51-936d-e47600d74b85" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+            <text></text>
+            <style name="LnFTextBox">
+              <DimensionStyle width="10" height="10" autofit="true" />
+              <PositioningStyle left="0" top="259" />
+              <BackgroundStyle type="transparent" />
+              <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+              <TextStyle color="102r102g102b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+              <FontStyle size="18.0" height="25">
+                <family>materialdesignjim</family>
+                <style name="Regular" weight="400" italic="normal" />
+                <evc-file>materialdesignjim-Regular</evc-file>
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="0" left="0" bottom="0" right="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+                <Text enable="false" />
+              </ShadowStyle>
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="0">
+                <style name="LnFTextRange">
+                  <FontStyle size="18.0" height="25">
+                    <family>materialdesignjim</family>
+                    <style name="Regular" weight="400" italic="normal" />
+                    <evc-file>materialdesignjim-Regular</evc-file>
+                  </FontStyle>
+                  <TextStyle color="102r102g102b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <info>Checkbox on light</info>
+            <userID>Icon_phone_6</userID>
+          </label>
+          <rectangle id="5785d60c-c710-4046-8683-be89699b68d6" auto-fit="false" hidden="false" lockType="none" onTop="false" visible="true">
+            <text>Last Searched College List</text>
+            <style name="LnFRectangle">
+              <DimensionStyle width="306" height="46" />
+              <PositioningStyle left="0" top="269" />
+              <BackgroundStyle type="color" value="255r255g255b" />
+              <BorderStyle radius="5" leftColor="255r255g255b" topColor="255r255g255b" rightColor="255r255g255b" bottomColor="255r255g255b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="2" topWidth="2" rightWidth="2" bottomWidth="2" />
+              <TextStyle color="67r67g67b" hAlign="left" vAlign="left" decoration="none" line-height="23" />
+              <FontStyle size="12.0" height="21">
+                <family>Roboto</family>
+                <style name="Regular" weight="400" italic="normal" />
+                <evc-file>Roboto-Regular</evc-file>
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="8" left="60" bottom="0" right="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+                <Text enable="false" />
+              </ShadowStyle>
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="26">
+                <style name="LnFTextRange">
+                  <FontStyle size="12.0" height="21">
+                    <family>Roboto</family>
+                    <style name="Regular" weight="400" italic="normal" />
+                    <evc-file>Roboto-Regular</evc-file>
+                  </FontStyle>
+                  <TextStyle color="67r67g67b" hAlign="left" vAlign="left" decoration="none" line-height="23" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <info>Two line item</info>
+            <userID>Two-line-item_21</userID>
+          </rectangle>
+          <label id="1802b837-0ed6-4eb5-980b-dbfc7efe8c65" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+            <text></text>
+            <style name="LnFTextBox">
+              <DimensionStyle width="10" height="10" autofit="true" />
+              <PositioningStyle left="0" top="315" />
+              <BackgroundStyle type="transparent" />
+              <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+              <TextStyle color="102r102g102b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+              <FontStyle size="18.0" height="25">
+                <family>materialdesignjim</family>
+                <style name="Regular" weight="400" italic="normal" />
+                <evc-file>materialdesignjim-Regular</evc-file>
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="0" left="0" bottom="0" right="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+                <Text enable="false" />
+              </ShadowStyle>
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="0">
+                <style name="LnFTextRange">
+                  <FontStyle size="18.0" height="25">
+                    <family>materialdesignjim</family>
+                    <style name="Regular" weight="400" italic="normal" />
+                    <evc-file>materialdesignjim-Regular</evc-file>
+                  </FontStyle>
+                  <TextStyle color="102r102g102b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <info>Checkbox on light</info>
+            <userID>Icon_phone_13</userID>
+          </label>
+          <rectangle id="9b47d57b-ddaa-4955-b0a9-8e4a64d99f62" auto-fit="false" hidden="false" lockType="none" onTop="false" visible="true">
+            <text>FAQ
+</text>
+            <style name="LnFRectangle">
+              <DimensionStyle width="306" height="46" />
+              <PositioningStyle left="0" top="325" />
+              <BackgroundStyle type="color" value="255r255g255b" />
+              <BorderStyle radius="5" leftColor="255r255g255b" topColor="255r255g255b" rightColor="255r255g255b" bottomColor="255r255g255b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="2" topWidth="2" rightWidth="2" bottomWidth="2" />
+              <TextStyle color="67r67g67b" hAlign="left" vAlign="left" decoration="none" line-height="23" />
+              <FontStyle size="12.0" height="21">
+                <family>Roboto</family>
+                <style name="Regular" weight="400" italic="normal" />
+                <evc-file>Roboto-Regular</evc-file>
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="8" left="60" bottom="0" right="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+                <Text enable="false" />
+              </ShadowStyle>
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="4">
+                <style name="LnFTextRange">
+                  <FontStyle size="12.0" height="21">
+                    <family>Roboto</family>
+                    <style name="Regular" weight="400" italic="normal" />
+                    <evc-file>Roboto-Regular</evc-file>
+                  </FontStyle>
+                  <TextStyle color="67r67g67b" hAlign="left" vAlign="left" decoration="none" line-height="23" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <info>Two line item</info>
+            <userID>Two-line-item_28</userID>
+          </rectangle>
+          <label id="b1a1edd1-19da-415d-9be6-a0d9720033e1" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+            <text></text>
+            <style name="LnFTextBox">
+              <DimensionStyle width="10" height="10" autofit="true" />
+              <PositioningStyle left="0" top="371" />
+              <BackgroundStyle type="transparent" />
+              <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+              <TextStyle color="102r102g102b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+              <FontStyle size="18.0" height="25">
+                <family>materialdesignjim</family>
+                <style name="Regular" weight="400" italic="normal" />
+                <evc-file>materialdesignjim-Regular</evc-file>
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="0" left="0" bottom="0" right="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+                <Text enable="false" />
+              </ShadowStyle>
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="0">
+                <style name="LnFTextRange">
+                  <FontStyle size="18.0" height="25">
+                    <family>materialdesignjim</family>
+                    <style name="Regular" weight="400" italic="normal" />
+                    <evc-file>materialdesignjim-Regular</evc-file>
+                  </FontStyle>
+                  <TextStyle color="102r102g102b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <info>Checkbox on light</info>
+            <userID>Icon_phone_16</userID>
+          </label>
+          <rectangle id="1b01b1c6-50cd-4226-b2ef-8cab8a8ba1ed" auto-fit="false" hidden="false" lockType="none" onTop="false" visible="true">
+            <text>About</text>
+            <style name="LnFRectangle">
+              <DimensionStyle width="306" height="46" />
+              <PositioningStyle left="0" top="381" />
+              <BackgroundStyle type="color" value="255r255g255b" />
+              <BorderStyle radius="5" leftColor="255r255g255b" topColor="255r255g255b" rightColor="255r255g255b" bottomColor="255r255g255b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="2" topWidth="2" rightWidth="2" bottomWidth="2" />
+              <TextStyle color="67r67g67b" hAlign="left" vAlign="left" decoration="none" line-height="23" />
+              <FontStyle size="12.0" height="21">
+                <family>Roboto</family>
+                <style name="Regular" weight="400" italic="normal" />
+                <evc-file>Roboto-Regular</evc-file>
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="8" left="60" bottom="0" right="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+                <Text enable="false" />
+              </ShadowStyle>
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="5">
+                <style name="LnFTextRange">
+                  <FontStyle size="12.0" height="21">
+                    <family>Roboto</family>
+                    <style name="Regular" weight="400" italic="normal" />
+                    <evc-file>Roboto-Regular</evc-file>
+                  </FontStyle>
+                  <TextStyle color="67r67g67b" hAlign="left" vAlign="left" decoration="none" line-height="23" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <info>Two line item</info>
+            <userID>Two-line-item_30</userID>
+          </rectangle>
+          <label id="eedf981f-cb56-4fbc-97ae-899e6356ea9f" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+            <text></text>
+            <style name="LnFTextBox">
+              <DimensionStyle width="10" height="10" autofit="true" />
+              <PositioningStyle left="0" top="427" />
+              <BackgroundStyle type="transparent" />
+              <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+              <TextStyle color="102r102g102b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+              <FontStyle size="18.0" height="25">
+                <family>materialdesignjim</family>
+                <style name="Regular" weight="400" italic="normal" />
+                <evc-file>materialdesignjim-Regular</evc-file>
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="0" left="0" bottom="0" right="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+                <Text enable="false" />
+              </ShadowStyle>
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="0">
+                <style name="LnFTextRange">
+                  <FontStyle size="18.0" height="25">
+                    <family>materialdesignjim</family>
+                    <style name="Regular" weight="400" italic="normal" />
+                    <evc-file>materialdesignjim-Regular</evc-file>
+                  </FontStyle>
+                  <TextStyle color="102r102g102b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <info>Checkbox on light</info>
+            <userID>Icon_phone_18</userID>
+          </label>
+          <style name="LnFCell">
+            <DimensionStyle width="305" height="640" />
+            <PositioningStyle left="0" top="0" />
+            <BackgroundStyle type="color" value="255r255g255b" />
+            <BorderStyle radius="3" leftColor="255r255g255b" topColor="255r255g255b" rightColor="255r255g255b" bottomColor="255r255g255b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="2" topWidth="2" rightWidth="2" bottomWidth="2" />
+            <TransparencyStyle value="0" />
+            <LayoutStyle type="layoutVertical" hAlign="1" vAlign="1" />
+            <ShadowStyle>
+              <Box enable="false" />
+            </ShadowStyle>
+          </style>
+        </item-group>
+      </tab>
+      <style name="LnFTabbedBox">
+        <DimensionStyle width="0" height="0" />
+        <PositioningStyle left="0" top="0" />
+        <RotationStyle angle="0" />
+      </style>
+      <info>Share menu dialog</info>
+      <userID>side-drawer-dialog_1</userID>
+    </tabbedBox>
+    <style name="LnFCanvas">
+      <DimensionStyle width="305" height="640" />
+      <PositioningStyle left="0" top="0" />
+      <BackgroundStyle type="transparent" />
+      <TransparencyStyle value="0" />
+    </style>
+  </item-group>
+  <Events>
+    <event id="a4d93ddb-a35a-4547-a472-f901abc3e636" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Case 1</description>
+        <block>
+          <navigateLink execType="serial" delayAction="0">
+            <screen id="00f58284-084c-495f-b405-89fccd8fb1dc">Create Profile</screen>
+            <type>window</type>
+          </navigateLink>
+        </block>
+      </case>
+    </event>
+    <event id="dd8e0d12-f049-49ad-b33c-869ac54fb7e6" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Case 1</description>
+        <block>
+          <navigateLink execType="serial" delayAction="0">
+            <screen id="e248db5e-7a6e-45c4-889b-7f7dd8353a9b">Preferences</screen>
+            <type>window</type>
+          </navigateLink>
+        </block>
+      </case>
+    </event>
+    <event id="5785d60c-c710-4046-8683-be89699b68d6" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Case 1</description>
+        <block>
+          <navigateLink execType="serial" delayAction="0">
+            <screen id="8f836602-d03a-454f-907d-ca540dc80382">Search Results</screen>
+            <type>window</type>
+          </navigateLink>
+        </block>
+      </case>
+    </event>
+  </Events>
+</screen>
+
